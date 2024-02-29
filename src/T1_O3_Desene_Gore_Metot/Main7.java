@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main7 {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
-
+        //veri girişini yaptırdık
         System.out.print("N Sayısı : ");
         int N = inp.nextInt();
         System.out.print("Çıktısı : ");
@@ -13,6 +13,7 @@ public class Main7 {
 
     }
 
+    //veriye göre desen eksi işlemini başlattık
     static int desenEksi(int n,int nArt) {
         System.out.print(n + " ");
         if (n > 0) {
@@ -22,7 +23,7 @@ public class Main7 {
             return desenArtı(n, nArt);
         }
     }
-
+    //veriye göre desen artı işlemini başlattık
     static int desenArtı(int n,int nArt) {
         if (n < nArt) {
             n += 5;
