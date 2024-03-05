@@ -3,9 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Boks_Oyunu/Boks_Oyunu.iml" filepath="$PROJECT_DIR$/Boks_Oyunu/Boks_Oyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cok_Boyutlu_Dizi/Cok_Boyutlu_Dizi.iml" filepath="$PROJECT_DIR$/Cok_Boyutlu_Dizi/Cok_Boyutlu_Dizi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dizi_Eleman_Frekansi/Dizi_Eleman_Frekansi.iml" filepath="$PROJECT_DIR$/Dizi_Eleman_Frekansi/Dizi_Eleman_Frekansi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dizi_Eleman_Siralama/Dizi_Eleman_Siralama.iml" filepath="$PROJECT_DIR$/Dizi_Eleman_Siralama/Dizi_Eleman_Siralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dizi_Maksimum_Bulma/Dizi_Maksimum_Bulma.iml" filepath="$PROJECT_DIR$/Dizi_Maksimum_Bulma/Dizi_Maksimum_Bulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dizi_Ortalama_Bulma/Dizi_Ortalama_Bulma.iml" filepath="$PROJECT_DIR$/Dizi_Ortalama_Bulma/Dizi_Ortalama_Bulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/GA_Patika_W2.iml" filepath="$PROJECT_DIR$/GA_Patika_W2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maas_Hesaplayici/Maas_Hesaplayici.iml" filepath="$PROJECT_DIR$/Maas_Hesaplayici/Maas_Hesaplayici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matris_Topuzu/Matris_Topuzu.iml" filepath="$PROJECT_DIR$/Matris_Topuzu/Matris_Topuzu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ogrenci_Bilgi_Sistemi/Ogrenci_Bilgi_Sistemi.iml" filepath="$PROJECT_DIR$/Ogrenci_Bilgi_Sistemi/Ogrenci_Bilgi_Sistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindromik_kelime_bulma/Palindromik_kelime_bulma.iml" filepath="$PROJECT_DIR$/Palindromik_kelime_bulma/Palindromik_kelime_bulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sayi_Tahmin/Sayi_Tahmin.iml" filepath="$PROJECT_DIR$/Sayi_Tahmin/Sayi_Tahmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tekrar_Eden_Sayi_Bulma/Tekrar_Eden_Sayi_Bulma.iml" filepath="$PROJECT_DIR$/Tekrar_Eden_Sayi_Bulma/Tekrar_Eden_Sayi_Bulma.iml" />
     </modules>
   </component>
 </project>
