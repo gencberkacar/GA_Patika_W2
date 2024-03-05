@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boks_Oyunu/Boks_Oyunu.iml" filepath="$PROJECT_DIR$/Boks_Oyunu/Boks_Oyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/GA_Patika_W2.iml" filepath="$PROJECT_DIR$/GA_Patika_W2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maas_Hesaplayici/Maas_Hesaplayici.iml" filepath="$PROJECT_DIR$/Maas_Hesaplayici/Maas_Hesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ogrenci_Bilgi_Sistemi/Ogrenci_Bilgi_Sistemi.iml" filepath="$PROJECT_DIR$/Ogrenci_Bilgi_Sistemi/Ogrenci_Bilgi_Sistemi.iml" />
     </modules>
   </component>
